@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Talabat.Kata", "Talabat.Kata\Talabat.Kata.csproj", "{8513F87E-B641-48B9-96DA-BFD51078B965}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Talabat.Kata.Tests", "Talabat.Kata.Tests\Talabat.Kata.Tests.csproj", "{8513F87E-B641-48B9-96DA-BFD51078B965}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
